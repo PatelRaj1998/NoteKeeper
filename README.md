@@ -8,6 +8,7 @@ notes are password protected and the user must enter a password to access and de
 notes.
 
 ### Context Diagram
+<img width="581" alt="1" src="https://user-images.githubusercontent.com/36802968/102760186-26ef0300-4343-11eb-98a4-7ae747834204.png">
 
 
 ### Tech Stack:
